@@ -1,0 +1,30 @@
+body{
+    background-color: rgb(5, 5, 5);
+}
+.container{
+    width:90%;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+}
+.counter{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  width: 600px;
+  min-height: 350px;
+  text-align: center;
+  background: #7698debc;
+  border: 5px groove black;
+  border-radius: 5px;
+  color: #000000;
+}
+.counter h1{
+    color: #000;
+    font-size: 2rem;
+  }
+  
+  #count{font-size: 10rem;}
+  
+  
